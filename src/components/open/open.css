@@ -1,0 +1,37 @@
+.top {height: 46px; display: flex; align-items: center; color: #f16925;}
+.top p {padding-left: 6px;padding-right: 10px;}
+.top a {color: #f16925;}
+.top .next {padding-left: 24px;font-size: 13px;}
+
+.tmdgp {height: 80px;background: #f16925;color: white; display: flex; align-items: center;}
+.tmdLeft {display: flex; }
+.tmdLeft img {margin-left: 10px;}
+.tmdLeft div {margin-left: 4px;}
+.tmdLeft div p {line-height: 28px;font-size: 14px;}
+.tenMin {margin-left: 46px;border: 1px solid white;padding: 5px;text-align: center;}
+.fiveMin {margin-left: 20px;border: 1px solid white;padding: 5px;text-align: center;}
+
+.kjt {display: flex; background: #f3f3f3; height: 60px;align-items: center;}
+.kjt div {text-align: center;}
+.kjt span {font-size: 14px;color: #b1b1b1;}
+.kjtLeft {width: 200px;}
+.kjtMidLeft {width: 140px;}
+.kjtMidRight {width: 110px;}
+.kjtRight {width: 90px;}
+
+.openList li {height: 90px;border-bottom: 1px solid #d6d6d6;display: flex;align-items: center;}
+.openLeft {width: 200px;}
+.openLeft p {font-size: 14px;color: #666666;padding-left: 10px;}
+.openLeft div {display: flex;padding-left: 10px;padding-top: 6px;}
+.openLeft div p {width: 24px; height: 24px;border-radius: 50%;background: #666666;color: white;text-align: center;line-height: 24px;padding-left: 0;}
+.openLeft div p.s1 {background: #989898;}
+.openLeft div p.s2 {background: #f16925;}
+.openMidLeft {width: 113px;display: flex;padding-left: 27px;}
+.openMidLeft div {width: 30px;height: 30px;border-radius: 50%;text-align: center;line-height: 30px;margin: 2px;}
+.openMidLeft span {padding-top: 6px;}
+.openMidLeft div.s1 {background: #f16925;}
+.openMidLeft div.s2 {background: #2caff1;}
+.openMidRight {width: 80px;padding-left: 30px;color: #f16925;}
+.openRight {width: 52px;padding-left: 26px;color: #f16925;}
+
+.openMore {text-align: center;line-height: 50px;margin-bottom: 60px;color: #d6d6d6;}

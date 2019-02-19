@@ -1,0 +1,6 @@
+[
+  {"id":1,"src":"/data/img/sk1.png","tit":"50元联通充值卡","two":28,"four":14,"ten":6},
+  {"id":2,"src":"/data/img/sk2.png","tit":"100元移动充值卡","two":55,"four":28,"ten":12},
+  {"id":3,"src":"/data/img/sk3.png","tit":"500元京东购物卡","two":280,"four":140,"ten":60},
+  {"id":4,"src":"/data/img/sk4.png","tit":"1000元石化加油卡","two":550,"four":280,"ten":120}
+]

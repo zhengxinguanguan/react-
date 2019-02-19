@@ -1,0 +1,16 @@
+.dayTit {height: 50px;display: flex;}
+.dayTit p {flex: 1;text-align: center;line-height: 50px;}
+.dayTit p.active {color: #f16925;}
+
+.dayNav {height: 200px;background: #f16925;overflow: hidden;display: flex;}
+.dayNav>div {flex: 1;}
+.dayNav .userPic {width: 90px; height: 90px;border-radius: 50%; margin-left: 20px;margin-top: 20px;}
+.dayNav .rank {background: url("../../assets/img/p.png") no-repeat;height: 30px;width: 30px;text-align: center;line-height: 30px;margin-left: 50px;margin-top: 6px;}
+.dayNav .userName {color: white;width: 90px;margin-left: 20px;text-align: center;line-height: 16px;}
+.dayNav .info {color: #f9dada;font-size: 12px;margin-left: 20px;text-align: center;width: 90px;}
+
+.dayList li {border-bottom:1px solid #d6d6d6;display: flex;height: 70px;align-items: center;}
+.dayList li img {width: 40px; height: 40px; border-radius: 50%;margin-right: 20px;}
+.dayList .loser {padding-left: 40px;padding-right: 20px;}
+.dayList .loserName {width: 100px;}
+.dayList .loserInfo {width: 150px;margin-right: 20px;text-align: right;font-size: 14px;color: #999999;}

@@ -1,0 +1,37 @@
+.scrollLeftDiv { width:100%; background:#ffffff; overflow: hidden}
+.scrollLeftDiv .ico { width:12%; float:left; background:url(../../assets/img/laba.png) no-repeat center left; height:35px; background-size:80%;}
+.scrollLeftDiv .scrollLeft { width:88%; float:left; color:#f16925; height:35px; font-size:180%; line-height:35px; margin:0 auto;}
+.scrollLeftDiv .scrollLeft li {float:left;margin:0 25px;display:inline; font-size: 12px;}
+.topBanner img {width: 100%;height: 170px; margin-bottom: 10px;}
+/*nav*/
+.nav { background:#ffffff;}
+.nav span { background:url(../../assets/img/navico.png) no-repeat; height:30px; line-height:30px; padding-left:12%; margin:0 3% 0 3%; float:left; font-size:12px; }
+.nav span.n1 { background-position:12px 0; }
+.nav span.n2 { background-position:12px -30px; }
+.nav span.n3 { background-position:12px -60px; }
+
+/*wrapper*/
+.wrapper { padding-bottom:20px; margin:0 auto; padding-top: 20px; -webkit-backface-visibility:hidden; -moz-backface-visibility:hidden; -ms-backface-visibility:hidden; -o-backface-visibility:hidden;backface-visibility:hidden; z-index:1; }
+.more { width:100%; display:block; float:left; text-align:center; font-size:220%; color:#cbcbcb; padding:50px 0 60px 0; height:50px; text-shadow:2px 2px 2px #ffffff; }
+/*main*/
+.main { width:100%; margin-top:20px; font-size:200%;background:#ffffff; border-top:10px solid #f0f0f0;}
+.main a img { width:100%; border-radius:5px; }
+.main .djs { float:left; text-align:left; font-size:90%; color:#f16925; background:url(../../assets/img/z.png) no-repeat left center; background-size:25%; padding-left:20px; margin:4px 0 0 0; }
+.main .djs span { float:left; padding-top:2px; width:17px;display:block;}
+.main .djs span.hm { width:17px; overflow:hidden; display:block; }
+.main .djs i { float:left; font-style:normal; padding:1px 1px 0 1px;}
+
+.main a dl { color:#999999; width:94%; padding:4% 3%; }
+.main a dl dt { float:left; width:30%; line-height:22px; }
+.main a dl dd { width:68%; padding:5px 0 0 2%; overflow: hidden;}
+.main a dl dd h3 , .main a dl dd h4 , .main a dl dd h5 { width:100%; float:left; }
+.main a dl dd h3 { color:#666; height:20px; line-height:20px; font-size: 16px;}
+.main a dl dd h4 { width:100%; float:left; margin-top:2px; line-height:20px; height:20px; font-size: 12px;}
+.main a dl dd h4 span { padding:0 15px 0 0; }
+.main a dl dd h4 span i { font-style:normal; color:#f16925; font-size:110%; }
+.main a dl dd h5 { padding-top:4px; font-size: 9px;}
+.main a dl dd h5 em { background:#f16925; padding:10px 16px; font-size:14px; float:right; color:#ffffff; border-radius:5px; font-style:normal; }
+/*tab*/
+.tab {width: 100%; height: 44px; display: flex;border-top:10px solid #f0f0f0}
+.tab span {flex: 1; text-align: center;line-height: 44px;}
+.tab .active {color: #f16925; border-bottom: 2px solid #f16925;}

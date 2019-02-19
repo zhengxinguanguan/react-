@@ -1,0 +1,22 @@
+.orderTit {height: 50px;display: flex;}
+.orderTit p {flex: 1;text-align: center;line-height: 50px;}
+.orderTit p.active {color: #f16925;border-bottom: 2px solid #f16925;}
+
+.orderCon li {border-top: 10px solid #f6f6f6;}
+
+.orderConTitLeft {color: #666666;font-size: 12px;padding-left: 20px;}
+.orderConTitRight {color: #999999;font-size: 12px;padding-left: 60px;}
+
+.orderConCon {display: flex;height: 120px;align-items: center;}
+.orderConConImg {width: 30%;height: 100px;margin-left: 18px;}
+
+.orderConConInfo {margin-left: 30px;}
+.orderConConInfo h3 {font-weight: normal;font-size: 16px;}
+.orderConConInfo p {font-size: 9px;color: #666666;}
+.orderConConInfo p span {color: #f16925;padding-left: 4px;}
+
+.orderConBot {display: flex;justify-content: space-around;height: 40px;}
+.orderConBot p {font-size: 12px;width: 100px;text-align: right;height: 30px;line-height: 30px;}
+.orderConBot span {display: block;color: #f16925;width: 80px;height: 30px;border: 1px solid #f16925;text-align: center;line-height: 30px;border-radius: 5px;}
+.orderConBot p.lose {background: url("../../assets/img/sb.png") no-repeat left center;color: #999999;}
+.orderConBot p.win {background: url("../../assets/img/cg.png") no-repeat left center;color: #f16925;}
